@@ -1,4 +1,4 @@
-# Jornal Colaborativo - Ética, Computador e Sociedade
+# Jornal Colaborativo - Ética, Computador e Sociedade[https://lucasazoli.github.io/journalUFBA/]
 
 ## Sobre o Projeto
 Este projeto consiste na criação de um jornal colaborativo para promover discussões e reflexões sobre as palestras apresentadas na disciplina Ética, Computador e Sociedade, oferecida na Universidade Federal da Bahia (UFBA).
