@@ -6,7 +6,7 @@ Este projeto consiste na criação de um jornal colaborativo para promover discu
 O objetivo é estimular o debate entre os estudantes, proporcionando um espaço dinâmico para troca de ideias, desenvolvimento do pensamento crítico e ampliação do conhecimento sobre temas relacionados à tecnologia e ética.
 
 ## Tecnologias Utilizadas
-- **Frontend:** HTML, CSS e JavaScript para criação de uma interface intuitiva e responsiva.
+- **Frontend:** HTML, CSS para criação de uma interface intuitiva e responsiva.
 - **Utilidades:** LaTeX para criar o template de página de jornal.
 
 ## Equipe
